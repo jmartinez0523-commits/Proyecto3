@@ -1,4 +1,4 @@
-Option = prompt("Menu\n 1.Perro\n 2.Gato\n 3.Ratón\n 4.Otra");
+Option = prompt("Menu\n 1.Perro\n 2.Gato\n 3.Ratón\n 4.Otra opcion");
 
 switch (Option) {
     case "1":
